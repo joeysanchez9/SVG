@@ -1,0 +1,19 @@
+{
+  "type": "module",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "inquirer": "^9.2.7",
+    "require": "^2.4.20",
+    "svg-canvas": "^1.0.2",
+    "svg2img": "^1.0.0-beta.2"
+  },
+  "name": "inquirer",
+  "description": "## Your Task",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "svg"
+  },
+  "author": "",
+  "license": "ISC"
+}
